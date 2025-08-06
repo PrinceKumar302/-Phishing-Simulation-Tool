@@ -1,0 +1,24 @@
+```
+phishing-simulation-tool/
+├── app/
+│   ├── templates/
+│   │   ├── index.html
+│   │   ├── dashboard.html
+│   │   └── phishing_email.html
+│   ├── static/
+│   │   └── style.css
+│   ├── routes.py
+│   └── ...
+├── database/
+│   └── users.db
+├── media/
+│   ├── screenshots/
+│   │   ├── dashboard.png
+│   │   ├── phishing_email_sample.png
+│   └── demo_video.mp4
+├── docs/
+│   └── architecture_diagram.png
+├── requirements.txt
+├── README.md
+└── LICENSE
+```

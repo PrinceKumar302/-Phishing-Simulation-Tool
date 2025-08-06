@@ -1,0 +1,7 @@
+Python 3.x
+
+Flask==2.3.3
+
+SQLite3
+
+SMTP credentials (Gmail or custom mail server)
